@@ -5,5 +5,6 @@ My final capstone project will be analyzing Utah motor vehicle crash data to ide
 
 The dataset used in this project is the Utah Motor Vehicle Crash dataset provided by the State of Utah.
 
-Data Source: https://opendata.utah.gov/browse?category=Public+Safety&sortBy=relevance&limitTo=datasets&page=1&pageSize=20
+Data Source: https://opendata.utah.gov
+
 Due to the size of the dataset, the raw CSV file is not included in this repository. The data can be downloaded directly from the Utah Open Data Portal using the link above.
