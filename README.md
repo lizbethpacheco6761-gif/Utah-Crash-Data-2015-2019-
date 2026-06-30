@@ -1,20 +1,42 @@
 # Utah-Crash-Data-2015-2019
 My final capstone project will be analyzing Utah motor vehicle crash data to identify trends, seasonal patterns, and factors related to traffic safety across the state.
 
+
 ## Dataset
 
 The dataset used in this project is the Utah Motor Vehicle Crash Data (2015–2019) obtained from the Utah Open Data Portal and loaded into Google BigQuery for analysis.
 
 Due to the size of the dataset, the raw CSV file is not included in this repository.
 
+
 ## Project Overview
 This project analyzes Utah crash data from 2015 to 2019 to better understand crash trends, locations, and contributing factors in Utah. Using Google Colab, Google BigQuery, and Power BI, I cleaned the data, explored key patterns, and created interactive dashboards to present the results.
+
 
 ## Project Objectives
 - Analyze crash trends across Utah
 - Identify counties and cities with the highest crash counts
 - Explore crash patterns by month, season, and time of day
 - Examine driver-related contributing factors
+
+
+## Data Processing
+Before analyzing the data, I prepared the dataset to ensure it was ready for analysis and visualizations.
+- Imported the raw dataset into Google Colab
+- Reviewed missing values and overall data quality
+- Performend an exploratory data analysis (EDA)
+- Uploaded the clean dataset into Google BigQuery
+
+
+## Exploratory Data Analysis
+EDA was performed to better understand the dataset before creeating dashboards.
+
+Areas that were explored 
+- Crash totals by year
+- Crash distribution by county and city
+- Driver-related contributiong factors
+- Seasonal and monthly trends
+
 
 ## Dashboard Overview
 **Utah Crash Overview**
