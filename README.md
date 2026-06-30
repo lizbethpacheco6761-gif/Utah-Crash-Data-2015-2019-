@@ -22,3 +22,17 @@ This project analyzes Utah crash data from 2015 to 2019 to better understand cra
 <img width="1337" height="770" alt="image" src="https://github.com/user-attachments/assets/ea74b8f1-1154-4a9e-8815-21037708f0f7" />
 
 Provides a high-level summary of crash activity, including crash totals, county rankings, yearly trends, and crash severity.
+
+
+**Utah Crash Trends by Time & Location**
+
+<img width="1335" height="772" alt="image" src="https://github.com/user-attachments/assets/17bc98e6-004f-4fd4-a66c-060585b1e835" />
+
+Explores crash patterns by month, season, time of day, and city to identify when and where crashes occur.
+
+
+**Utah Crash Contributing Factors**
+
+<img width="1335" height="770" alt="image" src="https://github.com/user-attachments/assets/519af5a8-f927-4d86-848e-74121c5e2d0c" />
+
+Examines driver-related factors such as DUI involvement, distracted driving, teen driver involvement, and unrestrained occupants.
