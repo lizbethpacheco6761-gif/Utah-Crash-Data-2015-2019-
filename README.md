@@ -36,3 +36,7 @@ Explores crash patterns by month, season, time of day, and city to identify when
 <img width="1335" height="770" alt="image" src="https://github.com/user-attachments/assets/519af5a8-f927-4d86-848e-74121c5e2d0c" />
 
 Examines driver-related factors such as DUI involvement, distracted driving, teen driver involvement, and unrestrained occupants.
+
+
+## Conclusion
+This project helped me better understand the full data analytics process, from cleaning the data to creating interactive dashboards. Analyzing Utah crash data allowed me to identify important trends and present them in a way that is easy to explore and understand. It also gave me more experience using Google Colab, Google BigQuery, and Power BI.
